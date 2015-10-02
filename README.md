@@ -1,3 +1,5 @@
+Written by K. Wakita
+
 #計算機科学第一のシラバス
 
 * **担当教員:** 森立平 (mori@is.titech.ac.jp)
